@@ -19,7 +19,7 @@ LibraryName is a new library for the Go language. I'm planning to use it in Proj
 Obviously, you want to link this note with notes `[[Golang language]]` and `[[ProjectName]]` 
 
 Your process: 
-1. go to search and lookup for 'Go language'
+1. go to search and lookup for 'Go language.'
 2. copy link to it
 3. go to your note and paste this link
 4. go to search and again lookup for 'ProjectName' note
@@ -37,10 +37,10 @@ My therapist recommends a vacation. I want to go to Spain and live in a beautifu
 Obviously you may want to link `[[vacation]]`, `[[Spain]]`, and maybe `[[hotels]]` , `[[BossName]]` and `[[therapy]]`
 
 Your process:
-1. go to search, found note 'vacation'
+1. go to search, found note 'vacation.'
 2. copy link
 3. go back to your note and paste a link
-4. go to search, found not 'Spain'
+4. go to search, found not 'Spain.'
 5. copy link
 6. go back to your note and paste a link
 
@@ -48,7 +48,7 @@ Repeat the same for 'hotels', 'BossName' and 'therapy'.
 
 # Conclusion
 
-I tried to use [[editors/apps/Apple Notes]], [[The Archive]], and [[iA Writer]] and found that I'm trying to make only a single connection between notes instead of multiple. I did that because my brain is lazy. 
+I tried to use [[Apple Notes]], [[The Archive]], and [[iA Writer]] and found that I'm trying to make only a single connection between notes instead of multiple. I did that because my brain is lazy. 
 Then I tried to use tags, but a number of the tags become overwhelming instantly. 
 
 After only 2-3 days of usage, I had around 50 notes and 60 tags, which became completely unusable. I can't imagine how anyone can reference anything with 1,000-10,000 notes.

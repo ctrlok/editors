@@ -1,4 +1,4 @@
-First, check out [[Why folders or parrents matter]]
+First, check out [[Why folders or parents matter]]
 
 Example:
 
@@ -16,5 +16,3 @@ And solutions like [[Obsidian]] or [[Notion]] treats folder/page name as prefix 
 ![[obsidian-dir.jpg]]
 
 My recommendation: use a solution that supports folder/parent name in the inline search. 
-
-#whyfeaturemetter #essential
